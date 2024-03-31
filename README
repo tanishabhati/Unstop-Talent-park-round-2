@@ -1,1 +1,3 @@
 This is a readme.
+Here, we used adult dataset to showcase the working of K-means algorithm, we can replace this dataset by the actual dataset which we will obtain by filtering the resumes through NLP.
+This is just the code fir K-means algorithm, data correlation is to be perfomed.
